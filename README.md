@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soujatya2x" alt="soujatya2x" /></a> </p>
 
-- 🌱 I’m currently learning **Agentic AI, MLOps, Data Engineering, Micro-Service, Platform Engineering**
+- 🌱 Exploring **Agentic AI, LLM, MLOps, Data Engineering**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w4PUuwdm0Qi7SxU7DED2N0K3L-YqjuOk/view?usp=sharing](https://drive.google.com/file/d/1w4PUuwdm0Qi7SxU7DED2N0K3L-YqjuOk/view?usp=sharing)
+- 📄 want to Know more about me? - [https://drive.google.com/file/d/1w4PUuwdm0Qi7SxU7DED2N0K3L-YqjuOk/view?usp=sharing](https://drive.google.com/file/d/1w4PUuwdm0Qi7SxU7DED2N0K3L-YqjuOk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
