@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soujatya</h1>
-<h3 align="center">A passionate ML Engineer and data science enthusiast. Attempting turn ideas into production grade applications. </h3>
+<h3 align="center">A passionate ML Engineer and data science enthusiast. Turning ideas into production grade applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soujatya2x&label=Profile%20views&color=0e75b6&style=flat" alt="soujatya2x" /> </p>
 
